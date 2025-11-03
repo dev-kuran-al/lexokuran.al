@@ -11,7 +11,7 @@ const Navbar = () => {
 					<div className='relative flex justify-center items-end gap-2 w-fit flex-row  p-1'>
 						<Image src={'/img/quran-caligraphy.png'} width={56} height={56} alt='' />
 						<div>
-							<strong className=''>LexoKuran.al</strong>
+							<strong className=''>El Furkan.al</strong>
 							<p className='text-sm text-slate-600'>Kur&apos;ani Fisnik</p>
 						</div>
 					</div>

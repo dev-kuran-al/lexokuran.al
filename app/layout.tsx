@@ -18,8 +18,8 @@ const geistMono = localFont({
 });
 
 export const metadata: Metadata = {
-	title: 'Lexo Kuran Shqip',
-	description: 'LexoKuran.al është website faqe webi për përkthim dhe komentim e Kuran-it famëlartë',
+	title: 'El-Furkan.al - Kurani Fisnik në shqip',
+	description: 'El-Furkan.al është website faqe webi për përkthim dhe komentim e Kuran-it famëlartë',
 };
 
 export default function RootLayout({
